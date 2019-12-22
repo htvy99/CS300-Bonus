@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>create_duplicate_private_channel</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c8baee0b-45c5-4779-b433-3afb2f29793c</testCaseGuid>
+</TestCaseEntity>

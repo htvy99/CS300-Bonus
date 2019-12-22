@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a8e15db9-a5c9-4679-8abc-0894d630ea38</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a345517d-edbd-45bb-82ba-4039185acbee</id>
+      <masked>false</masked>
+      <name>First_name</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>12e2054e-51e5-48a2-a671-70f02ab695b8</id>
+      <masked>false</masked>
+      <name>Last_name</name>
+   </variable>
+</TestCaseEntity>
